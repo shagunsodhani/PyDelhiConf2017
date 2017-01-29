@@ -4,7 +4,7 @@
 
 Code and Presentation for PyDelhi Conference 2017
 
-## Topic
+## Proposal
 
 [Functional Programming in Python](https://cfp.pydelhi.org/pydelhi-conference-2017/proposals/functional-programming-in-python/)
 
